@@ -26,7 +26,7 @@
                         <a href="/genre/horror" class="block px-4 py-2 hover:bg-gray-700">Horror</a>
                     </div>
                 </div>
-                <a href="/login" class="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded">Login</a>
+                <a href="profil.php" class="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded" title="Go to profile page">Login</a>
             </nav>
         </div>
     </header>
